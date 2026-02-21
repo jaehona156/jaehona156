@@ -1,4 +1,4 @@
-## Hi there 2
+## Hi there 1
 
 <!--
 **jaehona156/jaehona156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
